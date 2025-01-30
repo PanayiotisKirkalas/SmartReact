@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SmartReact/static/css/main.a4646f20.css",
-    "main.js": "/SmartReact/static/js/main.6074ee8a.js",
+    "main.js": "/SmartReact/static/js/main.d02c88b1.js",
     "static/js/488.96e04962.chunk.js": "/SmartReact/static/js/488.96e04962.chunk.js",
     "index.html": "/SmartReact/index.html",
     "main.a4646f20.css.map": "/SmartReact/static/css/main.a4646f20.css.map",
-    "main.6074ee8a.js.map": "/SmartReact/static/js/main.6074ee8a.js.map",
+    "main.d02c88b1.js.map": "/SmartReact/static/js/main.d02c88b1.js.map",
     "488.96e04962.chunk.js.map": "/SmartReact/static/js/488.96e04962.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4646f20.css",
-    "static/js/main.6074ee8a.js"
+    "static/js/main.d02c88b1.js"
   ]
 }
